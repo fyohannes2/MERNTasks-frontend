@@ -40,7 +40,7 @@ const List = () => {
 
   return <div className="ui card">
   <div className="content">
-    <div className="header">The Task Manager Web App: </div>
+    <div className="header">That Simple Task Manager App: </div>
   </div>
   <div className="content">
     <div className="ui relaxed divided list">
